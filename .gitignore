@@ -1,0 +1,37 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Ambiente virtual local
+venv/
+.env
+.env.*
+
+# Arquivos temporários e de cache
+*.log
+*.sqlite3
+*.db
+
+# Docker
+*.tar
+*.pid
+
+# VSCode/IDE
+.vscode/
+*.code-workspace
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Pyenv
+.python-version
+
+# Arquivos de build
+*.egg-info/
+build/
+dist/
