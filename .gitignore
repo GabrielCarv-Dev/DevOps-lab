@@ -9,7 +9,7 @@ __pycache__/
 # Ambiente virtual local
 venv/
 .env
-.env.*
+
 
 # Arquivos temporários e de cache
 *.log
