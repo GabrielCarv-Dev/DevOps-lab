@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from routes import targets
+from api.routes import targets
 
 app = FastAPI(title="devops-lab")
 
