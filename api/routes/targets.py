@@ -2,8 +2,8 @@
 #CRUD básico
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
-from db import get_session
-from models import Target
+from api.db import get_session
+from api.models import Target
 from pydantic import BaseModel, HttpUrl
 from typing import List
 
