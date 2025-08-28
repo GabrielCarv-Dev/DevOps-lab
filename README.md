@@ -1,4 +1,4 @@
-# DevOps-lab
+# DevOps-lab - PAUSADO PARA MUDANÇA DE ESTRUTURA E OBJETIVO DO PROJETO -
 Repo para estudo devops
 
 - projeto foi dividido em múltiplos containers com Docker Compose:
